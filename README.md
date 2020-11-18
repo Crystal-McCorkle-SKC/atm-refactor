@@ -3,7 +3,7 @@ For the Final lab you will be creating a refactoring and expanding the ATM progr
 
 * In lab 3 we wrote a program that behaves like an ATM that you can interact with. It was able to:
 
-    * Access a bank account with a pin
+    * Access a bank account with a pin 
 
     * Create a new bank account with a unique pin
 
@@ -16,18 +16,18 @@ For the Final lab you will be creating a refactoring and expanding the ATM progr
 * For the new lab start by adding the following features: 
 
     * Change the pin of the bank account (If the pin is in use, don't change it and alert the user that it's taken). 
-	* Display the date and time on all pages
+	* Display the date and time on all pages 
 	* Display a warning about fees that must be confirmed before withdrawing or depositing money 
 
 * Refactor the following code: 
 	
-	* Convert the constructor functions into classes
+	* Convert the constructor functions into classes 
 
 * Additionally: 
 	
 	* Error check the users input. Fulfill the following requirements in doing so: 
 		* Pins can only be 4 numbers and no other characters are allowed. 
-		* Withdrawal and deposit amounts must be increments of $20 with a limit of $200 and must be numbers.
+		* Withdrawal and deposit amounts must be increments of $20 with a limit of $200 and must be numbers. 
 		
 	* Update the html and css to style the elements and make them pleasing to the eye 
 	* Comment each block of code and explain what it does. 

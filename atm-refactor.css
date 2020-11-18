@@ -1,0 +1,35 @@
+body {
+    padding: 20%;
+    text-align: left; 
+    background: url(../atm-refactor/statueofliberty.jpg) center;  
+    width: 100%;
+    height: 100vh; 
+    background-size: cover;
+    position: relative;
+    align-items: left;
+    font-family: 'Roboto', sans-serif;
+  }
+
+h1 {
+    padding: 30px;
+    font: 400 130px/0.8 'Great Vibes', Helvetica, sans-serif;
+    color: blue;
+    text-shadow: 4px 4px 3px rgba(0,0,0,0.1); 
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color:#ab1111;
+    border-color: #ab1111;
+    margin: 5px;
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active{
+    color: #fff;
+    background-color:#ab1111 ;
+    border-color:#ab1111; 
+} 
+
+
+
+  
